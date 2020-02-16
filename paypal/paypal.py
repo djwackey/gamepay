@@ -38,7 +38,7 @@ class PayPal(BaseModel):
 	    @Description: 创建PayPal支付订单对象
 	    @Parameters:
 		    uid - 用户ID
-            cuid - 币种
+                    cuid - 币种
 		    amount - 商品金额
 		    productId - 商品ID
 		    productName - 商品名称
